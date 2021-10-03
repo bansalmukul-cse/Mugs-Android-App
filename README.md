@@ -1,6 +1,7 @@
 # Mugs-Android-App
-In this Android App , user first have to register and then redirected to home page  where user can use all functionality of home page
-In this App i made thhis bottom navigation bar by using the concepts of fragments
+In this Android App , user first have to register and then redirected to home page  where user can use all functionality of home page.
+</br>
+In this App i made this bottom navigation bar by using the concepts of fragments
 
 
 # Technologies used:-
